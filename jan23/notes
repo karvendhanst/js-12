@@ -1,0 +1,58 @@
+Operators
+
+1. Arimetic operators
+
++, - ,*, ,/, %, ++, --, **
+
+2. Assigment operator
+
+=, +=, -=, *=, /=, %=
+
+3. Comparison operator
+
+==, ===, !=, !==, >, <, >=, <=
+
+4. Logical operator
+
+&& and, || or, ! not
+
+&&
+
+true true - true
+false true - false
+true false - false
+false false - false
+
+||  
+
+true true - true
+false true - true
+true false - true
+false false - false
+
+5. Bitwise operator
+
+&, |, <<, >>
+
+0 - false
+1 - true
+
+0 & 1 - 0
+
+1010
+1100
+
+1000
+
+
+
+
+
+
+
+1010
+1100
+
+1110
+
+
