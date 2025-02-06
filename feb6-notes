@@ -1,0 +1,62 @@
+DOM - Document Object Model
+
+Collection Of Elements
+
+Access Element Methods
+
+getElementByTagName()
+getElementById()
+getElementByClassName()
+querySelector()
+querySelectorAll()
+
+Create element and insert content and add class name and update
+
+
+// let h1 = document.getElementsByTagName("h1")
+
+// console.log(h1[0]);
+
+// let h1 = document.getElementById("title")
+
+// console.log(h1);
+
+// let h1 = document.getElementsByClassName("head")
+
+// console.log(h1[0]);
+
+// let h1 = document.querySelector(".head")
+// console.log(h1);
+
+// let h1 = document.querySelectorAll(".head")
+// console.log(h1[2]);
+
+// let body = document.body
+
+// let h1 = document.createElement("h1")
+
+// h1.innerHTML = "Heading"
+
+// h1.classList.add("title")
+// h1.classList.add("head")
+
+// body.append(h1)
+
+
+// let body = document.body
+
+// let input = document.createElement("input")
+// input.type = "text"
+
+// let btn = document.createElement("button")
+// btn.innerHTML = "Click"
+
+// btn.onclick = ()=>{
+//    console.log(input.value);
+//    input.value = ""
+// }
+
+// body.append(input)
+// body.append(btn)
+
+//Task Create Simple todo app
